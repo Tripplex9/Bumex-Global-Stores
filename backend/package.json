@@ -1,0 +1,17 @@
+{
+  "name": "bumex-backend",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.0.0",
+    "jsonwebtoken": "^9.0.0",
+    "nodemailer": "^6.9.0",
+    "socket.io": "^4.5.0",
+    "bcryptjs": "^2.4.3",
+    "pdfkit": "^0.13.0",
+    "cors": "^2.8.5"
+  }
+}
